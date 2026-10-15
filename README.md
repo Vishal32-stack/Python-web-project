@@ -30,7 +30,7 @@ The application is accessible in the browser at:
 ```
 http://35.175.194.237:5000/
 
-<img width="2940" height="1912" alt="3036962D-1E97-42CA-BD12-7DDBD1647747" src="https://github.com/user-attachments/assets/b6ecf6b4-e8e1-4def-8e66-ff5fab531451" />
+<img width="2940" height="1912" alt="3036962D-1E97-42CA-BD12-7DDBD1647747" src="https://github.com/user-attachments/assets/74a4a4c1-21f2-446a-8c4a-62f102473374" />
 
 
 ```
